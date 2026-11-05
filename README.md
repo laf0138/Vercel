@@ -10,3 +10,5 @@ proxies live recipe searches for the dinnerplot meal-planning app.
   returns the trimmed response straight through. Spoonacular's terms forbid
   keeping recipe data (ingredients/instructions) beyond a live view, so this
   function is deliberately stateless -- no database, no cache layer.
+
+Deployed via Vercel's GitHub integration.
